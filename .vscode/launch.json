@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch BinaryToDecimal",
+            "request": "launch",
+            "mainClass": "BinaryToDecimal",
+            "projectName": "Core-java_fec056a4"
+        },
+        {
+            "type": "java",
+            "name": "Launch DecimalToBinary",
+            "request": "launch",
+            "mainClass": "DecimalToBinary",
+            "projectName": "Core-java_fec056a4"
+        },
+        {
+            "type": "java",
+            "name": "Launch EvenAndOddWihoutIf",
+            "request": "launch",
+            "mainClass": "EvenAndOddWihoutIf",
+            "projectName": "Core-java_fec056a4"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrimeNumber",
+            "request": "launch",
+            "mainClass": "PrimeNumber",
+            "projectName": "Core-java_fec056a4"
+        },
+        {
+            "type": "java",
             "name": "Launch StrongNumber",
             "request": "launch",
             "mainClass": "StrongNumber",
