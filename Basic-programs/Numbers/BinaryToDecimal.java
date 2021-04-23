@@ -1,3 +1,5 @@
+package Numbers;
+
 public class BinaryToDecimal {
 
     public static int count(int num) {

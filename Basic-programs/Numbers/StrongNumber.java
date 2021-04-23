@@ -1,3 +1,5 @@
+package Numbers;
+
 public class StrongNumber {
 
     public static int factorial(int num) {

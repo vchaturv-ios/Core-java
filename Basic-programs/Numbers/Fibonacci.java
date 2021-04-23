@@ -1,3 +1,5 @@
+package Numbers;
+
 public class Fibonacci {
     public static void main(String[] args) {
         //Program for fibonacci for first n terms

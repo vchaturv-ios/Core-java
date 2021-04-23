@@ -1,3 +1,5 @@
+package Numbers;
+
 public class PrimeNumber {
     // Prime Numer is divisible by 1 and only itself
     public static boolean checkPrimeNumber(int num) {

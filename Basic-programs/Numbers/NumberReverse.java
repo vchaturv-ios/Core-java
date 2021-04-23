@@ -1,3 +1,5 @@
+package Numbers;
+
 public class NumberReverse {
     public static void main(String[] args) {
         // 843 -> 348
