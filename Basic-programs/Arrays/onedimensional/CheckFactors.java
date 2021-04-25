@@ -1,4 +1,4 @@
-package Arrays;
+package Arrays.onedimensional;
 
 public class CheckFactors {
     public static void main(String[] args) {
